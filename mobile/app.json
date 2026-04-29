@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Intellipath",
+    "slug": "intellipath",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro",
+      "port": 8081
+    }
+  }
+}
